@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tawsifahmed
+- 👋 Hi, I’m Tawsif,
 - 👀 I’m interested in IT field, specially software development and information security. 
 - 🌱 I’m currently learning web development.
 - To reach me, I will update my social accounts here, soon. So stay tuned.
