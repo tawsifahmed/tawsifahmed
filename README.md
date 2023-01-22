@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tawsif,
 - 👀 I’m interested in IT field, specially software development and information security. 
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently working as Frontend Developer Intern at Singularity Ltd.
 - To reach me, I will update my social accounts here, soon. So stay tuned.
 
 <!---
