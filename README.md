@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as Frontend Developer Intern at [Singularity Ltd.](https://singularitybd.com/)
 - To reach me, I will update my social accounts here, soon. So stay tuned.
 
-## ❤ Views and Followers
+# Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tawsifahmed">
 </a>
