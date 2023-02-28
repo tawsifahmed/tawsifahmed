@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tawsif,
-- 👀 I’m passionate about in IT, specially software development and information security. 
+- 👀 I’m passionate about IT, specially software development and information security. 
 - 🌱 I’m currently working as Frontend Developer Intern at [Singularity Ltd.](https://singularitybd.com/)
 - To reach me, I will update my social accounts here, soon. So stay tuned.
 
