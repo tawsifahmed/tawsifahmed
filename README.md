@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tawsif,
 - 👀 I’m passionate about IT, specially software development, machine learning, and information security. 
-- 🌱 I’m currently working as a Software Engineer at [Singularity Ltd.](https://singularitybd.com/)
+- 🌱 I’m currently working as a Software Engineer at [Authlab.](https://authlab.io/)
 - To reach me, I will update my social accounts here, soon. So stay tuned.
 
 Views and Followers
