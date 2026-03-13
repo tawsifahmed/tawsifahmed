@@ -2,7 +2,7 @@
 - 👀 I’m passionate about IT, specially software development, machine learning, and information security. 
 - 🌱 I’m currently working as a Software Engineer L-2 at [Authlab.](https://authlab.io/)
 
-- ⌨️​ [Monkeytype ](https://monkeytype.com/profile/tawsifahmed) (avg 90+ WPM on 15s)
+- ⌨️​ [Monkeytype ](https://monkeytype.com/profile/tawsifahmed) (avg 90+ WPM on 15s, 30s)
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
